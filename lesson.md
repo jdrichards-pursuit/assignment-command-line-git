@@ -161,22 +161,3 @@ The `head` command shows the beginning of a file.
 
 Answer: 
 
----
-
-## Solutions
-
-<details>
-<summary>🔍 Click here to see all solutions</summary>
-
-1. `mkdir practice_folder`
-2. `cd practice_folder`
-3. `pwd`
-4. `echo "Hello World" > notes.txt`
-5. `cat notes.txt`
-6. `mkdir backup`
-7. `cp notes.txt backup/`
-8. `ls`
-9. `mv notes.txt important_notes.txt`
-10. `head important_notes.txt`
-
-</details>
