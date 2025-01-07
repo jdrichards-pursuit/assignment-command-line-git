@@ -1,7 +1,5 @@
 # Command Line Practice Exercises
 
-<img src="./assets/terminal.webp" alt="Terminal" width="500">
-
 These exercises will help you learn basic command line operations. For each task, try to figure out the correct command. If you need help, click the hint dropdown below the task. You can actually also practice these commands in the terminal on your own machine.
 
 ## Starting State

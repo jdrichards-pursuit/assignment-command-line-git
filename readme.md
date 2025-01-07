@@ -1,5 +1,7 @@
 # Command Line Basics Lab
 
+<img src="./assets/terminal.webp" alt="Terminal" width="500">
+
 In this lab you will practice the basics of the command line.
 
 Getting Started:
